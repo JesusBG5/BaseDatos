@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseDatos</string>
+    <string name="botonAlta">Crear contacto</string>
+    <string name="botonConsulta">Consultar contactos</string>
+    <string name="botonGuardar">Guardar</string>
+    <string name="cajaMat">Matrícula</string>
+    <string name="cajaNombre">Nombre</string>
+    <string name="cajaTelefono">Teléfono</string>
+</resources>
